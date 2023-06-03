@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-03T13:41:37.298Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zAsrC0kLk9ulx-sa5MAC" version="21.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-03T13:44:09.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_yBH8b39ooa1gMfJkdhN" version="21.3.7" type="github" pages="2">
   <diagram name="SSR" id="blEORctRzxMHvsubrzqS">
     <mxGraphModel dx="1877" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -63,7 +63,7 @@
     </mxGraphModel>
   </diagram>
   <diagram name="SPA" id="zkwdu0WWWYvIS0jxFTU1">
-    <mxGraphModel dx="1877" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="4LItCW6gLdrNV5Lp0CWC-0" />
         <mxCell id="4LItCW6gLdrNV5Lp0CWC-1" parent="4LItCW6gLdrNV5Lp0CWC-0" />
@@ -99,8 +99,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4LItCW6gLdrNV5Lp0CWC-10" value="2. Response with HTML + JS + CSS + DATA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
-          <mxGeometry x="389" y="227" width="420" height="40" as="geometry" />
+        <mxCell id="4LItCW6gLdrNV5Lp0CWC-10" value="2. Response with HTML + JS + CSS" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
+          <mxGeometry x="388" y="227" width="350" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4LItCW6gLdrNV5Lp0CWC-11" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
           <mxGeometry width="100" relative="1" as="geometry">
@@ -119,8 +119,8 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="4LItCW6gLdrNV5Lp0CWC-14" value="4. Response with HTML + JS + CSS + DATA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
-          <mxGeometry x="388" y="342" width="420" height="40" as="geometry" />
+        <mxCell id="4LItCW6gLdrNV5Lp0CWC-14" value="4. Response with JSON DATA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
+          <mxGeometry x="388" y="342" width="290" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
