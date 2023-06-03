@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-03T13:24:13.598Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="V_WWJ_XzSbJ9stQFp920" version="21.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-03T13:29:11.313Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="psFaf6gxNbIsUBWY5p8m" version="21.3.7" type="github" pages="2">
   <diagram name="SSR" id="blEORctRzxMHvsubrzqS">
-    <mxGraphModel dx="1050" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1050" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -57,7 +57,7 @@
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="72_Wo1eWH7YJW0XUpBBC-4" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
-          <mxGeometry x="369.9" y="460" width="88.2" height="114.6" as="geometry" />
+          <mxGeometry x="369" y="480" width="88.2" height="114.6" as="geometry" />
         </mxCell>
         <mxCell id="72_Wo1eWH7YJW0XUpBBC-5" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;exitX=0.684;exitY=1.026;exitDx=0;exitDy=0;exitPerimeter=0;entryX=0.483;entryY=-0.016;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="72_Wo1eWH7YJW0XUpBBC-1" target="72_Wo1eWH7YJW0XUpBBC-4">
           <mxGeometry width="100" relative="1" as="geometry">
