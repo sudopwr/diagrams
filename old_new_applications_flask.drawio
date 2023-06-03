@@ -1,4 +1,4 @@
-<mxfile host="app.diagrams.net" modified="2023-06-03T13:44:09.275Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="_yBH8b39ooa1gMfJkdhN" version="21.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-03T13:45:10.790Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="9MvHaOENtiDeX-YyUT6B" version="21.3.7" type="github" pages="2">
   <diagram name="SSR" id="blEORctRzxMHvsubrzqS">
     <mxGraphModel dx="1877" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
@@ -67,11 +67,11 @@
       <root>
         <mxCell id="4LItCW6gLdrNV5Lp0CWC-0" />
         <mxCell id="4LItCW6gLdrNV5Lp0CWC-1" parent="4LItCW6gLdrNV5Lp0CWC-0" />
-        <mxCell id="4LItCW6gLdrNV5Lp0CWC-2" value="Server side rendering application" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
-          <mxGeometry x="219" y="40" width="390" height="40" as="geometry" />
+        <mxCell id="4LItCW6gLdrNV5Lp0CWC-2" value="Single Page Application" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
+          <mxGeometry x="280" y="70" width="290" height="40" as="geometry" />
         </mxCell>
         <mxCell id="4LItCW6gLdrNV5Lp0CWC-3" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
-          <mxGeometry x="-40" y="153" width="366" height="282" as="geometry" />
+          <mxGeometry x="-70" y="200" width="366" height="282" as="geometry" />
         </mxCell>
         <mxCell id="4LItCW6gLdrNV5Lp0CWC-4" value="sudopower.in" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="4LItCW6gLdrNV5Lp0CWC-3">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
@@ -80,7 +80,7 @@
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="4LItCW6gLdrNV5Lp0CWC-6" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
-          <mxGeometry x="850" y="153" width="184.71" height="240" as="geometry" />
+          <mxGeometry x="850" y="212" width="184.71" height="240" as="geometry" />
         </mxCell>
         <mxCell id="4LItCW6gLdrNV5Lp0CWC-7" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
           <mxGeometry width="100" relative="1" as="geometry">
@@ -121,6 +121,26 @@
         </mxCell>
         <mxCell id="4LItCW6gLdrNV5Lp0CWC-14" value="4. Response with JSON DATA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
           <mxGeometry x="388" y="342" width="290" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dtu9hXDPB7esQO5b8gk1-0" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="340" y="435" as="sourcePoint" />
+            <mxPoint x="810" y="435" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dtu9hXDPB7esQO5b8gk1-1" value="5. Request goes to server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#CC0066;" vertex="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
+          <mxGeometry x="390" y="400" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="dtu9hXDPB7esQO5b8gk1-2" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="810" y="485" as="sourcePoint" />
+            <mxPoint x="340" y="485" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="dtu9hXDPB7esQO5b8gk1-3" value="6. Response with JSON DATA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
+          <mxGeometry x="389" y="452" width="290" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
