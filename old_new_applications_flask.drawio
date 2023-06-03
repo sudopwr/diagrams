@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2023-06-03T13:37:28.880Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="JKrXhoOhjXki36mg_fC7" version="21.3.7" type="github" pages="2">
+<mxfile host="app.diagrams.net" modified="2023-06-03T13:41:37.298Z" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/114.0.0.0 Safari/537.36" etag="zAsrC0kLk9ulx-sa5MAC" version="21.3.7" type="github" pages="2">
   <diagram name="SSR" id="blEORctRzxMHvsubrzqS">
-    <mxGraphModel dx="1877" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1877" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -17,12 +17,12 @@
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
         <mxCell id="HJ9IKvbhu4GFSbHcbOAL-4" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
-          <mxGeometry x="700" y="153" width="184.71" height="240" as="geometry" />
+          <mxGeometry x="850" y="153" width="184.71" height="240" as="geometry" />
         </mxCell>
         <mxCell id="HJ9IKvbhu4GFSbHcbOAL-5" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="370" y="210" as="sourcePoint" />
-            <mxPoint x="660" y="210" as="targetPoint" />
+            <mxPoint x="340" y="210" as="sourcePoint" />
+            <mxPoint x="810" y="210" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
@@ -31,73 +31,96 @@
         </mxCell>
         <mxCell id="HJ9IKvbhu4GFSbHcbOAL-7" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="660" y="260" as="sourcePoint" />
+            <mxPoint x="810" y="260" as="sourcePoint" />
             <mxPoint x="340" y="260" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HJ9IKvbhu4GFSbHcbOAL-8" value="2. Response with HTML + DATA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="360" y="229" width="310" height="40" as="geometry" />
+        <mxCell id="HJ9IKvbhu4GFSbHcbOAL-8" value="2. Response with HTML + JS + CSS + DATA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="389" y="227" width="420" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HJ9IKvbhu4GFSbHcbOAL-9" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="B0Eq4lkUk0FV-BTrXMya-1" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="380" y="320" as="sourcePoint" />
-            <mxPoint x="670" y="320" as="targetPoint" />
+            <mxPoint x="339" y="325" as="sourcePoint" />
+            <mxPoint x="809" y="325" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HJ9IKvbhu4GFSbHcbOAL-10" value="3. Request goes to server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#CC0066;" vertex="1" parent="1">
-          <mxGeometry x="400" y="284" width="250" height="40" as="geometry" />
+        <mxCell id="B0Eq4lkUk0FV-BTrXMya-2" value="3. Request goes to server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#CC0066;" vertex="1" parent="1">
+          <mxGeometry x="389" y="290" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="HJ9IKvbhu4GFSbHcbOAL-11" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="B0Eq4lkUk0FV-BTrXMya-3" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="670" y="370" as="sourcePoint" />
-            <mxPoint x="340" y="370" as="targetPoint" />
+            <mxPoint x="809" y="375" as="sourcePoint" />
+            <mxPoint x="339" y="375" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="HJ9IKvbhu4GFSbHcbOAL-12" value="4. Response with HTML + DATA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="370" y="338" width="310" height="40" as="geometry" />
+        <mxCell id="B0Eq4lkUk0FV-BTrXMya-4" value="4. Response with HTML + JS + CSS + DATA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="388" y="342" width="420" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
-  <diagram id="wVSQKDQ8iGBk4i1cADOs" name="SPA">
-    <mxGraphModel dx="1877" dy="619" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+  <diagram name="SPA" id="zkwdu0WWWYvIS0jxFTU1">
+    <mxGraphModel dx="1877" dy="562" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
-        <mxCell id="0" />
-        <mxCell id="1" parent="0" />
-        <mxCell id="72_Wo1eWH7YJW0XUpBBC-1" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="1">
-          <mxGeometry x="-30" y="160" width="366" height="210" as="geometry" />
+        <mxCell id="4LItCW6gLdrNV5Lp0CWC-0" />
+        <mxCell id="4LItCW6gLdrNV5Lp0CWC-1" parent="4LItCW6gLdrNV5Lp0CWC-0" />
+        <mxCell id="4LItCW6gLdrNV5Lp0CWC-2" value="Server side rendering application" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=25;" vertex="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
+          <mxGeometry x="219" y="40" width="390" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="72_Wo1eWH7YJW0XUpBBC-2" value="sudopower.in" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="72_Wo1eWH7YJW0XUpBBC-1">
+        <mxCell id="4LItCW6gLdrNV5Lp0CWC-3" value="" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.browserWindow;rSize=0;strokeColor=#666666;strokeColor2=#008cff;strokeColor3=#c4c4c4;mainText=,;recursiveResize=0;" vertex="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
+          <mxGeometry x="-40" y="153" width="366" height="282" as="geometry" />
+        </mxCell>
+        <mxCell id="4LItCW6gLdrNV5Lp0CWC-4" value="sudopower.in" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;fontSize=17;fontColor=#666666;align=left;whiteSpace=wrap;" vertex="1" parent="4LItCW6gLdrNV5Lp0CWC-3">
           <mxGeometry x="60" y="12" width="110" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="72_Wo1eWH7YJW0XUpBBC-3" value="https://sudopower.in" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="72_Wo1eWH7YJW0XUpBBC-1">
+        <mxCell id="4LItCW6gLdrNV5Lp0CWC-5" value="https://sudopower.in" style="strokeWidth=1;shadow=0;dashed=0;align=center;html=1;shape=mxgraph.mockup.containers.anchor;rSize=0;fontSize=17;fontColor=#666666;align=left;" vertex="1" parent="4LItCW6gLdrNV5Lp0CWC-3">
           <mxGeometry x="130" y="60" width="250" height="26" as="geometry" />
         </mxCell>
-        <mxCell id="72_Wo1eWH7YJW0XUpBBC-4" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="1">
-          <mxGeometry x="690" y="145" width="184.71" height="240" as="geometry" />
+        <mxCell id="4LItCW6gLdrNV5Lp0CWC-6" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/storage/Datacenter_Server_Half_Rack_ToR.svg;" vertex="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
+          <mxGeometry x="850" y="153" width="184.71" height="240" as="geometry" />
         </mxCell>
-        <mxCell id="72_Wo1eWH7YJW0XUpBBC-5" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4LItCW6gLdrNV5Lp0CWC-7" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="370" y="210" as="sourcePoint" />
-            <mxPoint x="660" y="210" as="targetPoint" />
+            <mxPoint x="340" y="210" as="sourcePoint" />
+            <mxPoint x="810" y="210" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="72_Wo1eWH7YJW0XUpBBC-6" value="1. Request goes to server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="390" y="160" width="250" height="40" as="geometry" />
+        <mxCell id="4LItCW6gLdrNV5Lp0CWC-8" value="1. Request goes to server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#CC0066;" vertex="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
+          <mxGeometry x="390" y="175" width="250" height="40" as="geometry" />
         </mxCell>
-        <mxCell id="ti4X-naj_UD8cSRnePma-1" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="1">
+        <mxCell id="4LItCW6gLdrNV5Lp0CWC-9" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
           <mxGeometry width="100" relative="1" as="geometry">
-            <mxPoint x="660" y="260" as="sourcePoint" />
-            <mxPoint x="370" y="260" as="targetPoint" />
+            <mxPoint x="810" y="260" as="sourcePoint" />
+            <mxPoint x="340" y="260" as="targetPoint" />
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="ti4X-naj_UD8cSRnePma-2" value="1. Request goes to server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="390" y="220" width="250" height="40" as="geometry" />
+        <mxCell id="4LItCW6gLdrNV5Lp0CWC-10" value="2. Response with HTML + JS + CSS + DATA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
+          <mxGeometry x="389" y="227" width="420" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4LItCW6gLdrNV5Lp0CWC-11" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="339" y="325" as="sourcePoint" />
+            <mxPoint x="809" y="325" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4LItCW6gLdrNV5Lp0CWC-12" value="3. Request goes to server" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;fontColor=#CC0066;" vertex="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
+          <mxGeometry x="389" y="290" width="250" height="40" as="geometry" />
+        </mxCell>
+        <mxCell id="4LItCW6gLdrNV5Lp0CWC-13" value="" style="edgeStyle=none;orthogonalLoop=1;jettySize=auto;html=1;rounded=0;" edge="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
+          <mxGeometry width="100" relative="1" as="geometry">
+            <mxPoint x="809" y="375" as="sourcePoint" />
+            <mxPoint x="339" y="375" as="targetPoint" />
+            <Array as="points" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="4LItCW6gLdrNV5Lp0CWC-14" value="4. Response with HTML + JS + CSS + DATA" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;fontSize=20;" vertex="1" parent="4LItCW6gLdrNV5Lp0CWC-1">
+          <mxGeometry x="388" y="342" width="420" height="40" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
